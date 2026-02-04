@@ -62,3 +62,7 @@ Meshtastic® — это проект, позволяющий использов�
 
 
 [![Немного познавательного юмора](https://img.youtube.com/vi/bcfHOAQHO8Q/maxresdefault.jpg)](https://www.youtube.com/shorts/bcfHOAQHO8Q)
+
+## Содержание
+
+- [Прошивка](ru/meshtastic-firmware.md)
